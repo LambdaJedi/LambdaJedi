@@ -15,7 +15,7 @@ quote from source.
 Also: [Backend-LMS](https://github.com/LambdaJedi/Backend-LMS) — Spring Boot
 + Firebase + AWS backend delivered to a real client.
 
-- LinkedIn: [njabulo-ncube](https://linkedin.com/in/njabulo-ncube)
+- LinkedIn: [njabulo-ncube](www.linkedin.com/in/njabulo-ncube-72b849327)
 - Email: ncubenjabulo775@gmail.com
 - Available immediately for junior Java backend roles in Johannesburg,
   Cape Town, or remote.
